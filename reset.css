@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+button {
+	font: inherit;
+	color: inherit;
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	touch-action: manipulation;
+}
+a {
+	text-decoration: none;
+}
